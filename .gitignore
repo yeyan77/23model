@@ -1,0 +1,11 @@
+#.gitignore
+/**/.settings/
+/**/.externalToolBuilders/
+/**/node_modules/
+/**/target/
+/**/classes/
+/**/test-classes/
+/**/.idea/
+.project
+.classpath
+test.html
